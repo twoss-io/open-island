@@ -1,6 +1,6 @@
 # \[翻譯\] Why open source[^1]
 
-開源是一件很酷的事，有許多理由讓你可以在開源平台上為之著迷、分享、並且協作，進而支持開源。
+開源是一件很酷的事，有許多理由讓你可以在開源平台上為之著迷、分享、並且協作，進而支持開源。[^2]這裡列出一些值得討論方向：
 
 ### 個體經濟的驅動
 
@@ -94,4 +94,6 @@ There are many reasons why you should prefer consuming, publishing, collaboratin
 ---
 
 [^1]:  [Why open source \| Ben Balter](https://ben.balter.com/2015/11/23/why-open-source/)
+
+[^2]:  For a much longer, much more comprehensive, much more thoroughly researched list, I highly recommend [David Wheeler’s canonical paper, “Why Open Source Software”](http://www.dwheeler.com/oss_fs_why.html), originally published some 15 years ago \(and still very much accurate\).
 
