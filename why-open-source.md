@@ -17,14 +17,6 @@ Open source is in your best interest, whether you're an individual, a corporatio
   | Maintenance | √ | √ |
   | Support | √ | √ |
 
-\| Cost \| Open source \| Proprietary \|  
-\|:———————-\|:—————————-\|:—————————-\|  
-\| Licensing \| :x: \| :heavy\_check\_mark: \|  
-\| Implementation \| :heavy\_check\_mark: \| :heavy\_check\_mark: \|  
-\| Maintenance \| :heavy\_check\_mark: \| :heavy\_check\_mark: \|  
-\| Support \| :heavy\_check\_mark: \| :heavy\_check\_mark: \|  
-{: .table style="width: 50%; margin-left: auto; margin-right: auto;" }
-
 * [**Given enough eyeballs, all bugs are shallow**](https://blogs.microsoft.com/cybertrust/2006/06/07/linuss-law-aka-many-eyes-make-all-bugs-shallow/) \(Linus's Law\) - [Empirically, open source tends to produce better quality software than its proprietary or alternative counterparts](http://www.dwheeler.com/oss_fs_why.html). When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that happen to be employed by the company that publishes the software \(or more likely, the arms-length contractor they pay to build it\). Open source provides three advantages: first, you have the opportunity to tap the knowledge of the world's best developers, not just those on one organization's payroll. Second, the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger. Finally, open source software gets adapted to a variety of use cases, not just the one the publisher originally intended, surfacing bugs and edge cases much more rapidly than traditional, predictive QA processes.
 
 * [**Modern software development practices**](https://ben.balter.com/2015/09/21/open-source-behind-the-firewall/) - Open source software is more than simply "published" code. You'd be hard-pressed to find an open source project that follows outdated, waterfall, or rigid command-and-control development philosophies, still common in many large, bureaucratic organizations. By virtue of being distributed and unbridled by policy or technical debt, open source projects all but necessitate modern software development workflows. [These workflows](https://ben.balter.com/2015/11/18/tools-to-empower-open-collaboration/) are electronic \(meaning process is naturally captured and exposed\), asynchronous \(meaning decisions are time and location agnostic\), and lock-free \(meaning contributors can rapidly experiment without prior approval\). These three workflow characteristics means more rapid development cycles and more frequent releases without sacrificing quality.
@@ -100,8 +92,6 @@ If you're a developer \(or an aspiring developers\), open source can provide an 
 There are many reasons why you should prefer consuming, publishing, collaborating on, and supporting open source, and if yours isn't listed here, I'd love to hear \(and add\) it. Whatever your reason, it's clear open source isn't the next big thing. Open source is already here.
 
 ---
-
-
 
 [^1]:  [Why open source \| Ben Balter](https://ben.balter.com/2015/11/23/why-open-source/)
 
