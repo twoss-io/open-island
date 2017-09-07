@@ -51,7 +51,7 @@ By combining and augmenting parallel or related efforts, open source makes a soc
 
 * **Fuel the marketplace of ideas** - Software is nothing more than technical knowledge. There was once a time when alchemists would withhold the results of their work, claiming their discoveries as proprietary. Each had to learn the hard way the result on the human body of drinking lead. When those alchemists began sharing their work, we began calling them scientists, and the scientific revolution was born. The same is true of mathematics, literature, and computer software. Two developers working individually may come up with two solutions to a given problem, but through dialog and collaboration, each bringing their own knowledge and experience, may discover three, five, or ten solutions to the same, and society is better as a result.
 
-### 心境轉念
+### 心存善念
 
 The formal name for open source is [free/libre open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software). As such, open source motivations have a strong moral component:
 
