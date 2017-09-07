@@ -13,6 +13,8 @@ Google 作為世界領導企業，同時也是 GitHub 開源數量最多的組�
 | **機會（Opportunities）** | **威脅（Threats）** |
 | 台灣擁有許多產品的技術供應鍵，由於過度封閉，使得產學研無法有效串連。而在現今開源文化當道之時，台灣有足夠能量以小搏大，只要突破既有的框架，就有機會協作小事，成就大事。 | Google 作為世界領導企業，同時也是 GitHub 開源數量最多的組織。但國內企業多數卻視開源為利益損失，而非增進市場效能及研發效率；將開源的流動管理，視為決策力減少，而非增加決策品質。這些觀念是最大的威脅存在。 |
 
+---
+
 [^1]:  [SWOT analysis - Wikipedia](https://en.wikipedia.org/wiki/SWOT_analysis)
 
 [^2]:  [Organizations Ranking - Gitstar Ranking](https://gitstar-ranking.com/organizations)
