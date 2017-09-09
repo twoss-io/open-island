@@ -4,5 +4,6 @@
 
 ---
 
-[![](https://ycku.github.io/gitbook-plugin-notocjk/assets/notocjk.svg)](https://plugins.gitbook.com/plugin/notocjk)[![](https://img.shields.io/badge/小島辦公室-開源協作課程-brightgreen.svg)](https://mini-island.github.io/)
+[![中文就要用中文字型](https://ycku.github.io/gitbook-plugin-notocjk/assets/notocjk.svg)](https://plugins.gitbook.com/plugin/notocjk)
+[![twoss-io](https://img.shields.io/badge/臺灣開源軟體協作工坊-TWOSS-orange.svg)](https://twoss.io/)
 
