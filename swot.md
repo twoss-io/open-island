@@ -13,6 +13,15 @@ Google 作為世界領導企業，同時也是 GitHub 開源數量最多的組�
 | **機會（Opportunities）** | **威脅（Threats）** |
 | 台灣擁有許多產品的技術供應鍵，由於過度封閉，使得產學研無法有效串連。而在現今開源文化當道之時，台灣有足夠能量以小搏大，只要突破既有的框架，就有機會協作小事，成就大事。 | Google 作為世界領導企業，同時也是 GitHub 開源數量最多的組織。但國內企業多數卻視開源為利益損失，而非增進市場效能及研發效率；將開源的流動管理，視為決策力減少，而非增加決策品質。這些觀念是最大的威脅存在。 |
 
+
+## USED 解決方案
+在 SWOT 分析之後，就需要接著進行 USED 制定解決方案，針對 SWOT 的四個面向，強化或降低其影響力，以接近理想的目標。
+
+### 如何善用每個優勢？ How can we Use each Strength?
+### 如何停止每個劣勢？ How can we Stop each Weakness?
+### 如何成就每個機會？ How can we Exploit each Opportunity?
+### 如何抵禦每個威脅？ How can we Defend against each Threat?
+
 ---
 
 [^1]:  [SWOT analysis - Wikipedia](https://en.wikipedia.org/wiki/SWOT_analysis)
