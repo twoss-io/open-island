@@ -13,14 +13,19 @@ Google 作為世界領導企業，同時也是 GitHub 開源數量最多的組�
 | **機會（Opportunities）** | **威脅（Threats）** |
 | 台灣擁有許多產品的技術供應鍵，由於過度封閉，使得產學研無法有效串連。而在現今開源文化當道之時，台灣有足夠能量以小搏大，只要突破既有的框架，就有機會協作小事，成就大事。 | Google 作為世界領導企業，同時也是 GitHub 開源數量最多的組織。但國內企業多數卻視開源為利益損失，而非增進市場效能及研發效率；將開源的流動管理，視為決策力減少，而非增加決策品質。這些觀念是最大的威脅存在。 |
 
-
 ## USED 解決方案
-在 SWOT 分析之後，就需要接著進行 USED 制定解決方案，針對 SWOT 的四個面向，強化或降低其影響力，以接近理想的目標。
 
-### 如何善用每個優勢？ How can we Use each Strength?
-### 如何停止每個劣勢？ How can we Stop each Weakness?
-### 如何成就每個機會？ How can we Exploit each Opportunity?
-### 如何抵禦每個威脅？ How can we Defend against each Threat?
+在 SWOT 分析之後，就需要接著進行 USED 制定解決方案，針對 SWOT 的四個面向，強化或降低其影響力，以接近理想的目標。就開源這個目標而言，其解決方案正好就是開源本身，只不過是必須落實在幾個具體的面向：
+
+#### 如何善用每個優勢？ How can we Use each Strength?
+
+既然台灣已俱備人才能力上的優勢，需要做的便是進一步擴大個人的價值，讓每個人在做相同的事情，增加其累積的效果：**協助每個現有或潛在的人才，設立開源個人頁面**。將其工作內容模組化之後，開源至 GitHub（或領域相關的開源平台）。讓個人履歷能隨工作過程自動累積，建立長期的人才資源庫，增強個人或品牌效應。
+
+#### 如何停止每個劣勢？ How can we Stop each Weakness?
+
+#### 如何成就每個機會？ How can we Exploit each Opportunity?
+
+#### 如何抵禦每個威脅？ How can we Defend against each Threat?
 
 ---
 
