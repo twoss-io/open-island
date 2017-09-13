@@ -1,7 +1,7 @@
 {
 	"plugins": [ "notocjk", "localized-footer" ],
 	"localized-footer": {
-     		"hline": true,            // whether to include an horizontal line above the footer
-     		"filename": "./FOOTER.md" // may also be a relative path to the book root
+     		"hline": true,            
+     		"filename": "./FOOTER.md" 
    	}
 }
