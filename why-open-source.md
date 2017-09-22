@@ -4,7 +4,7 @@
 
 ### 個體經濟的驅動
 
-開源是一種**最大化利益的考量**，包含個人、企業、小型公司、公益組織、或是政府團體：
+開源是一種**最大化利益的考量**，不論是個人、企業、小型公司、公益組織、或是政府團體：
 
 * **提升開發者的產值** - We like to say in open source that _all the easy problems have already been solved_. Blogging, content management, and operating systems are all problems with established \(and mainstream\) open source solutions, to name a few. While your developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees developers up to work on yet-unsolved challenges, the types of challenges that are unique to and add value to your organization's mission. Why not stand on the shoulders of technology giants?
 
