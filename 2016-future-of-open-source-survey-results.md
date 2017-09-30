@@ -5,6 +5,7 @@
 * [2016 Future of Open Source Survey Result](https://www.blackducksoftware.com/2016-future-of-open-source) from [Black Duck Software](https://www.slideshare.net/blackducksoftware) （以此為主）
 * [The state of the Octoverse](https://octoverse.github.com/) from [Github.com](https://github.com/)
 * [Gitstar Ranking](https://gitstar-ranking.com/) from [@k0kubun](https://github.com/k0kubun)
+* [Version Control Systems Popularity in 2016](https://rhodecode.com/insights/version-control-systems-2016) from [RhodeCode](https://rhodecode.com/)
 
 注意，本文引用商業公司的數據，主要是因為其規模足夠透漏出市場趨勢訊息。開源的工具與方式並不限制於此。
 
@@ -18,7 +19,11 @@
 
 #### 有 73% 的軟體公司選擇最具優勢的開源版本管理方案\(git\)
 
+由 RhodeCode 公司於 2016 年提出的研究報告「[Version Control Systems Popularity in 2016](https://rhodecode.com/insights/version-control-systems-2016)」也指出，Git 顯然是目前當紅且持續成長的版本管理軟體。從累積數據來看，整體使用版本管理工具的案例也是越來越多，而這正是開源協作文化的起點—重視發展歷程，也量化供獻者的價值。
+
 #### 雲端、大數據、內容管理、資料庫、作業系統、開發工具和行動技術等，是開源軟體被成功採用的主要技術領域。
+
+這些技術的開源發展，表現出開源文化的廣泛性，大型軟體除了巨型企業的另一個選擇，就是巨型社群。（巨型企業內部組織也是一種巨型社群的概念）而在軟體領域之外，值得注意的是，像 [Adobe open fonts](https://github.com/adobe-fonts) 的開源字型，也在文化產業開始產生影響。（所謂開源字型指的是釋出可製作新字型設計所需的資源，而不單單只是 web font。）
 
 #### 有高達 90% 的受訪者認同開源軟體增進了效率、互通性與創新。
 
