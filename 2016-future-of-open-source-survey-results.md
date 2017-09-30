@@ -37,8 +37,6 @@ Linux 這個大型開源軟體的意義在於，製作高品質的軟體，不�
 
 Apache 從傳言中「A patchy web server」，意即修修補補的網頁伺服器，因為開源，在快速地修補之下，很快地就成為市佔率最高的網頁伺服器，到今天仍然是如此。開源是促進提高技術層級的方式，Linus's law：「Given enough eyeballs, all bugs are shallow」，Apache 網頁伺服器用時間證明了這句話。
 
-#### Gartner 權威調查研究機構在進階分析（Advanced Analytics）給予相關開源軟體高度評價。
-
 ---
 
 [^1]:  [2016 Future of Open Source Survey Results](https://www.slideshare.net/blackducksoftware/2016-future-of-open-source-survey-results)
