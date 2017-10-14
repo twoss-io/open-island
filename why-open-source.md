@@ -6,7 +6,7 @@
 
 開源是一種**最大化利益的考量**，不論是個人、企業、中小型公司、公益組織、或是政府團體：
 
-* **提升開發者的產值** - We like to say in open source that _all the easy problems have already been solved_. Blogging, content management, and operating systems are all problems with established \(and mainstream\) open source solutions, to name a few. While your developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees developers up to work on yet-unsolved challenges, the types of challenges that are unique to and add value to your organization's mission. Why not stand on the shoulders of technology giants?
+* **提升開發者的產值** - 我們時常說，在開源的專案裡，所有簡單的問題都已經被解決了。部落格、內容管理、作業系統，都已經有許多開源的解決方案。你的開發者可能正忙著重新做一個輪子，而在開源的世界裡卻已經有了近乎完美的輪子。比較好的作法是，就用那個近乎最好的輪子吧，尤其那個輪子同時也近乎免費。解放你的開發者，讓他們去挑戰那些還沒有被解決的問題，去挑戰那些能讓你的組織獲得獨一無二價值的任務。為何我們不站在巨人的肩膀上呢？
 
 * **降低管理成本（TCO, Total cost of ownership）** - Using open source software yields a lower total cost of ownership when compared to closed source and proprietary alternatives. Adopting open source software generally has a lower up-front cost \(because the software often comes at no cost or relatively low cost\), and shifts the cost center from licensing \(an operating expense\) to customization and implementation \(a capital expense\). Additional costs like training, maintenance, and support are sunk costs. You're going to be paying for both regardless of if the software is open or closed source, the cost often being baked into the license in the case of commercial, off-the-shelf software \(COTS\). What makes open source unique is that you're not paying for the right to use the underlying intellectual property.
 
