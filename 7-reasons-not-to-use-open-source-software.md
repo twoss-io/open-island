@@ -14,9 +14,9 @@ The benefits of open source software are many, varied and, by now, well-known. I
 
 However, the open-source evangelist probably won't tell you that, despite all these very real benefits, there are times when using closed-sourced, proprietary software actually makes far more business sense.
 
-Here are some of the circumstances when old-fashioned proprietary products are a better business choice than open source software.
+以下是一些版權產品比開源軟體更好的商業選擇情況。
 
-## 1. When It's Easier for Unskilled Users
+## 1. 當非技術使用者更容易使用它時
 
 ![](https://images.techhive.com/images/idge/imported/article/cio/2014/02/11/hp-a-linux-fl-100339929-orig.jpg "Linux Penguin")
 
@@ -24,7 +24,7 @@ Linux has made a huge impact on the server market, but the same can't be said fo
 
 While Linux very well may be technically superior to these proprietary operating systems, its weaknesses mean that most users will find it more difficult and less appealing to work with. That means lower productivity, which will likely cost far more than purchasing a proprietary operating system with which your staff is familiar.
 
-## 2. When It's the De Facto Standard
+## 2. 當它是行業間的共通標準時
 
 Most knowledge workers are familiar with, and use, Microsoft Word and Excel. Even though there are some excellent[open source alternatives to Office](http://www.cio.com/article/716346/5_Free_Open_Source_Alternatives_to_Microsoft_Office), such as[LibreOffice](http://www.libreoffice.org/)and[Apache OpenOffice](http://www.openoffice.org/), they aren't identical in terms of functionality or user interface, performance, plugins and APIs for integration with third-party products. They are probably close enough as much as 90 percent of the time, but on rare occasions there's a risk that these differences will cause problems — especially when exchanging documents with suppliers or customers.
 
@@ -34,7 +34,7 @@ It also makes sense to use proprietary software in specialist fields where vendo
 
 "When that happens, the students will then know the software better and be more productive with it," Mattman says. When the students then move into a business environment, it makes sense for them to continue with the software they are used to.
 
-## 3. When Proprietary Software Offers Better Support
+## 3. 當版權軟體能提供更好的商業支援時
 
 Business-class support is sometimes available for open source software, either from the company leading the project or a separate third-party. This isn't the case often, though — and that can be a problem, according to[Tony Wasserman](http://www.cmu.edu/silicon-valley/faculty-staff/wasserman-tony.html), professor of software management practice at Carnegie Mellon University.
 
@@ -42,21 +42,21 @@ Business-class support is sometimes available for open source software, either f
 
 "Some customers prefer to have someone outside the company to call for product support on a 24/7 basis and are willing to pay for a service level agreement that will provide a timely response," he says. "People often respond very quickly to queries posted on the forum pages of widely-used open source projects, but that's not the same thing as a guaranteed vendor response in response to a toll-free telephone call."
 
-## 4. When You Want Software as a Service
+## 4. 當你把軟體作為服務使用時
 
 Cloud software is slightly different than conventional software. As a general rule, you don't get access to the source code, even if the hosted software is built entirely on open source software. That may not make the software proprietary, strictly speaking, but it doesn't give you all the benefits of open source. In that sense, the benefits of using the "pay for what you use" software as a service model may outweigh the disadvantage of not having access to the source code.
 
-## 5. When Proprietary Software Works Better With Your Hardware
+## 5. 當版權軟體在你的硬體環境上運作得更好時
 
 Many types of proprietary hardware require specialized drivers; these are often closed source and available only from the equipment manufacturer. Even when an open source driver exists, it may not be the best choice. "Open source developers may not be able to 'see' the hardware, so the proprietary driver may well work better," Mattman says.
 
-## 6. When Warranties and Liability Indemnity Matter
+## 6. 當你需要考慮擔保和責任賠償問題時
 
 Some open source software companies, such as[Red Hat](http://www.redhat.com/), are structured to look like proprietary software vendors. They accordingly offer warranties and liability indemnity for their products, just like proprietary vendors do. "These companies are exactly the same as proprietary software companies, except that they won't take you out to play golf," Wasserman says.
 
 For every Red Hat, though, there are many open source projects that aren't backed by a commercial organization. While you may get warranties and liability from a third-party, in many cases you won't. If that doesn't suit you or your company's software procurement policies, then you're advised to find a proprietary vendor.
 
-## 7. When You Need a Vendor That Will Stick Around
+## 7. 當你需要一個打算堅持下去的供應商時
 
 Yes, there's no guarantee that a commercial software vendor will stick with a product if demand drops to such an extent that it's no longer profitable to develop it. The company itself may even go out of business. But if an open source project is small, there's also a danger that the person behind it may lose interest. If that happens, it may not be easy to find another open source developer to step in.
 
