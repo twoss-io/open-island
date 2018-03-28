@@ -1,3 +1,9 @@
-[![twoss-io](https://img.shields.io/badge/臺灣開源軟體協作工坊-TWOSS-orange.svg)](https://twoss-io.github.io)  
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'zh-TW,ja,en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+
+[![twoss-io](https://img.shields.io/badge/臺灣開源軟體協作工坊-TWOSS-orange.svg)](https://twoss.io)  
 [![license](https://img.shields.io/github/license/twoss-io/open-island.svg)](https://github.com/twoss-io/open-island/blob/master/LICENSE)
-[![twitter](https://img.shields.io/badge/%23開源-twitter-blue.svg)](https://twitter.com/hashtag/%E9%96%8B%E6%BA%90?f=tweets&vertical=default&src=hash)
